@@ -8,3 +8,6 @@ There are a few things you need first before you can run the notebook yourself.
 - Now install jupyter with pip
 - Install the required dependencies: Seaborn and Scikit-learn (you get NumPy, Pandas and Matplotlib among others by doing this).
 - Download and unzip the latest draft data from 17lands.com into the root of your project directory. 
+#To start
+- Run source jupyter/bin/activate
+- jupyter notebook
